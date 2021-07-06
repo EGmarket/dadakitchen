@@ -4,18 +4,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-
-/* h2 {
-    font-size: 40px;
-}
-
-.orange {
-    color: orange;
-} */
-
 .flexible-container {
     display: flex;
-    /* margin-bottom: 150px; */
 }
 
 .head {
@@ -34,18 +24,6 @@ body {
     box-shadow: 2px 2px 2px 2px red;
     border-radius: 2px 2px 50px 50px;
 }
-
-
-/* p {
-    text-indent: auto;
-    margin-right: 5%;
-    margin-bottom: 40px;
-}
-
-.top-banner {
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
-} */
 
 h1 {
     font-family: 'Encode Sans SC', sans-serif;
@@ -123,14 +101,7 @@ p {
     box-shadow: 2px 2px 2px 2px black;
 }
 
-
-/* .dream-big {
-    background-image: url("/images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-} */
-
-.dev-box {
+.recipe-box {
     width: 40%;
     margin-left: 3%;
     margin-right: 3%;
@@ -145,22 +116,6 @@ p {
     background-repeat: no-repeat;
     background-position: left;
     background-size: 100% 100%;
-}
-
-
-/* #full-dev {
-    border-left: 10px solid;
-    border-image: linear-gradient(#e44b04, #e7e40d) 30;
-} */
-
-#baby-dev {
-    border-left: 10px solid;
-    border-image: linear-gradient(#0c48ee, #0dd5e7) 30;
-}
-
-#graphic {
-    border-left: 10px solid;
-    border-image: linear-gradient(#ee0c88, #0dd5e7) 30;
 }
 
 footer p {
